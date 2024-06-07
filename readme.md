@@ -2,21 +2,6 @@
 
 This project contains a collection of flag icons in SVG format, forked from the [flag-icons repository](https://github.com/lipis/flag-icons). Some flags have been fixed or adjusted for better accuracy. The SVG files were then converted to WEBP format using [Fotor SVG to WEBP Converter](https://www.fotor.com/convert/svg-converter/svg-to-webp/).
 
-## Project Structure
-
-.
-├── svg/
-│ ├── af.svg
-│ ├── al.svg
-│ ├── ...
-│ └── zw.svg
-└── webp/
-├── af.webp
-├── al.webp
-├── ...
-└── zw.webp
-
-
 ## Usage
 
 ### SVG Files
