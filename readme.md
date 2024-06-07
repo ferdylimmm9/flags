@@ -10,11 +10,11 @@ The SVG files are located in the `svgs` directory. You can use them directly in 
 
 Example usage in HTML:
 ```html
-<img src="svgs/af.svg" alt="Afghanistan Flag">
+<img src="svg/af.svg" alt="Afghanistan Flag">
 ```
 ### WEBP Files
 ```html
-<img src="webps/af.webp" alt="Afghanistan Flag">
+<img src="webp/af.webp" alt="Afghanistan Flag">
 ```
 
 # Credits
